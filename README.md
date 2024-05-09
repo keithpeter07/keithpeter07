@@ -16,6 +16,8 @@ I'm a software engineer with a passion for turning complex ideas into beautiful 
 
 ### Languages and tools
 
+<p align="left">
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" />
 &nbsp;&nbsp;&nbsp;
 
@@ -44,6 +46,8 @@ I'm a software engineer with a passion for turning complex ideas into beautiful 
 &nbsp;&nbsp;&nbsp;
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" /> 
+
+</p>
 
 ---
 <br/>
