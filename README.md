@@ -18,7 +18,7 @@ I'm a software engineer with a passion for turning complex ideas into beautiful 
 ### 🧰 Languages and tools
 <br/>
 
-<p align="left">
+<p align="center">
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -63,7 +63,9 @@ I'm a software engineer with a passion for turning complex ideas into beautiful 
 <br/>
 <br/>
 <p>
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=keithpeter07&theme=dark" alt="keithpeter07" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keithpeter07&theme=dark" alt="keithpeter07" />
+</p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=keithpeter07&theme=dark&show_icons=true&locale=en&layout=compact" alt="keithpeter07" /></p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=keithpeter07&theme=dark&show_icons=true&locale=en&layout=compact" alt="keithpeter07" /></p>
 </p>
