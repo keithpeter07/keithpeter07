@@ -8,12 +8,13 @@
 I'm a software engineer with a passion for turning complex ideas into beautiful code realities. My approach to software engineering combines deep technical expertise with a keen sense of design, ensuring that every project is both robust and user-friendly. 😁
 
 ---
+<br/>
 ### 🤙🏾 Connect with me:
 
 [![linkedin](./assets/linkedin-dark.svg)](https://www.linkedin.com/keith-peter#gh-light-mode-only) [![linkedin](./assets/linkedin-light.svg)](https://www.linkedin.com/keith-peter#gh-dark-mode-only) &nbsp; &nbsp; [![leetcode](./assets/leetcode-dark.svg)](https://leetcode.com/u/keithpeter#gh-light-mode-only) [![leetcode](./assets/leetcode-light.svg)](https://leetcode.com/u/keithpeter#gh-dark-mode-only)
 
 #
-
+<br/>
 ### 🧰 Languages and tools:
 
 <p align="left">
@@ -50,8 +51,10 @@ I'm a software engineer with a passion for turning complex ideas into beautiful 
 </p>
 
 ---
+
 <br/>
 <br/>
+### 📊 Stats
 <p>
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=keithpeter07&theme=dark" alt="keithpeter07" />
 
