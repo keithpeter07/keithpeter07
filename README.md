@@ -44,7 +44,7 @@ I'm a software engineer with a passion for turning complex ideas into beautiful 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="mongo" width="40"/>
 &nbsp;&nbsp;&nbsp;
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" alt="python" width="40"/>
 &nbsp;&nbsp;&nbsp;
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" />
