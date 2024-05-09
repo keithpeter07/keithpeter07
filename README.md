@@ -12,7 +12,7 @@ I'm a software engineer with a passion for turning complex ideas into beautiful 
 ### 🤙🏾 Connect with me:
 <br/>
 
-[![linkedin](./assets/linkedin-dark.svg)](https://www.linkedin.com/keith-peter#gh-light-mode-only) [![linkedin](./assets/linkedin-light.svg)](https://www.linkedin.com/keith-peter#gh-dark-mode-only) &nbsp; &nbsp; [![leetcode](./assets/leetcode-dark.svg)](https://leetcode.com/u/keithpeter#gh-light-mode-only) [![leetcode](./assets/leetcode-light.svg)](https://leetcode.com/u/keithpeter#gh-dark-mode-only)
+[![linkedin](./assets/email-dark.svg)](mailto:keithpeter07@gmail.com#gh-light-mode-only) [![linkedin](./assets/email-light.svg)](mailto:keithpeter07@gmail.com#gh-dark-mode-only) &nbsp; &nbsp; [![linkedin](./assets/linkedin-dark.svg)](https://www.linkedin.com/keith-peter#gh-light-mode-only) [![linkedin](./assets/linkedin-light.svg)](https://www.linkedin.com/keith-peter#gh-dark-mode-only) &nbsp; &nbsp; [![leetcode](./assets/leetcode-dark.svg)](https://leetcode.com/u/keithpeter#gh-light-mode-only) [![leetcode](./assets/leetcode-light.svg)](https://leetcode.com/u/keithpeter#gh-dark-mode-only)
 
 #
 ### 🧰 Languages and tools:
