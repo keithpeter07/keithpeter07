@@ -55,5 +55,5 @@ I'm a software engineer with a passion for turning complex ideas into beautiful 
 <p>
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=keithpeter07&theme=dark" alt="keithpeter07" />
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=keithpeter07&show_icons=true&locale=en&layout=compact" alt="keithpeter07" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=keithpeter07&theme=dark&show_icons=true&locale=en&layout=compact" alt="keithpeter07" /></p>
 </p>
