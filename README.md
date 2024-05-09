@@ -10,7 +10,7 @@ I'm a software engineer with a passion for turning complex ideas into beautiful 
 ---
 ### Connect with me
 
-[![linkedin](./assets/linkedin-dark.svg)](https://www.linkedin.com/keith-peter#gh-light-mode-only) [![linkedin](./assets/linkedin-dark.svg)](https://www.linkedin.com/keith-peter#gh-dark-mode-only) &nbsp; &nbsp; [![leetcode](./assets/leetcode-dark.svg)](https://leetcode.com/u/keithpeter#gh-light-mode-only) [![leetcode](./assets/leetcode-dark.svg)](https://leetcode.com/u/keithpeter#gh-dark-mode-only)
+[![linkedin](./assets/linkedin-dark.svg)](https://www.linkedin.com/keith-peter#gh-light-mode-only) [![linkedin](./assets/linkedin-light.svg)](https://www.linkedin.com/keith-peter#gh-dark-mode-only) &nbsp; &nbsp; [![leetcode](./assets/leetcode-dark.svg)](https://leetcode.com/u/keithpeter#gh-light-mode-only) [![leetcode](./assets/leetcode-light.svg)](https://leetcode.com/u/keithpeter#gh-dark-mode-only)
 
 #
 
