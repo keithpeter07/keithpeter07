@@ -48,6 +48,9 @@ I'm a software engineer with a passion for turning complex ideas into beautiful 
 &nbsp;&nbsp;&nbsp;
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" /> 
+&nbsp;&nbsp;&nbsp;
+
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40"/>
 
 </p>
 
