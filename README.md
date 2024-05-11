@@ -1,4 +1,4 @@
-![Keith](https://raw.githubusercontent.com/keithpeter07/keithpeter07/main/assets/code.gif)
+![Keith](https://raw.githubusercontent.com/keithpeter07/keithpeter07/main/assets/code-dark.gif)
 
 
 # 👋🏾 Hi there, I'm Keith
