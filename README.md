@@ -8,16 +8,38 @@
 
 I'm a software engineer with a passion for turning complex ideas into beautiful code realities. My approach to software engineering combines deep technical expertise with a keen sense of design, ensuring that every project is both robust and user-friendly. 😁
 
+<p align="left">
+<a href="https://www.linkedin.com/in/keith-peter/">
+         <img alt="linkedin" title="Linkedin" src="https://custom-icon-badges.demolab.com/badge/-Linkedin-blue?style=for-the-badge&logoColor=white&logo=linkedin"/>
+</a>
+
+<a href="https://leetcode.com/u/keithpeter/">
+         <img alt="leetcode" title="Leetcode" src="https://custom-icon-badges.demolab.com/badge/Leetcode-yellow.svg?style=for-the-badge&logoColor=white&logo=leetcode"/>
+</a>
+
+<a href="mailto:keithpeter07@gmail.com">
+         <img alt="mail" title="Send me an email" src="https://custom-icon-badges.demolab.com/badge/-Send%20Email-red?style=for-the-badge&logoColor=white&logo=mail"/>
+</a>
+</p>
+
 ---
 
 ### 🤙🏾 Connect with me
 <br/>
 
-<div align="left">
+<p align="left">
+<a href="https://www.linkedin.com/in/keith-peter/">
+         <img alt="linkedin" title="Linkedin" src="https://custom-icon-badges.demolab.com/badge/-Linkedin-blue?style=for-the-badge&logoColor=white&logo=linkedin"/>
+</a>
 
-[![email](./assets/email-dark.svg)](mailto:keithpeter07@gmail.com#gh-light-mode-only) [![email](./assets/email-light.svg)](mailto:keithpeter07@gmail.com#gh-dark-mode-only) &nbsp; &nbsp; &nbsp; &nbsp; [![linkedin](./assets/linkedin-dark.svg)](https://www.linkedin.com/keith-peter#gh-light-mode-only) [![linkedin](./assets/linkedin-light.svg)](https://www.linkedin.com/keith-peter#gh-dark-mode-only) &nbsp; &nbsp; &nbsp; &nbsp; [![leetcode](./assets/leetcode-dark.svg)](https://leetcode.com/u/keithpeter#gh-light-mode-only) [![leetcode](./assets/leetcode-light.svg)](https://leetcode.com/u/keithpeter#gh-dark-mode-only)
+<a href="https://leetcode.com/u/keithpeter/">
+         <img alt="leetcode" title="Leetcode" src="https://custom-icon-badges.demolab.com/badge/Leetcode-yellow.svg?style=for-the-badge&logoColor=white&logo=leetcode"/>
+</a>
 
-</div>
+<a href="mailto:keithpeter07@gmail.com">
+         <img alt="mail" title="Send me an email" src="https://custom-icon-badges.demolab.com/badge/-Send%20Email-red?style=for-the-badge&logoColor=white&logo=mail"/>
+</a>
+</p>
 
 #
 ### 🧰 Languages and tools
