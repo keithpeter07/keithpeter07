@@ -1,4 +1,5 @@
-![Keith](https://raw.githubusercontent.com/keithpeter07/keithpeter07/main/assets/code-dark.gif)
+![Keith](https://raw.githubusercontent.com/keithpeter07/keithpeter07/main/assets/code-light.gif#gh-dark-mode-only)
+![Keith](https://raw.githubusercontent.com/keithpeter07/keithpeter07/main/assets/code-dark.gif#gh-light-mode-only)
 
 
 # 👋🏾 Hi there, I'm Keith
@@ -69,7 +70,7 @@ I'm a software engineer with a passion for turning complex ideas into beautiful 
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keithpeter07&theme=dark" alt="keithpeter07" />
 </p>
-
+<br/>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=keithpeter07&theme=dark&show_icons=true&locale=en&layout=compact" alt="keithpeter07" /></p>
 </p>
