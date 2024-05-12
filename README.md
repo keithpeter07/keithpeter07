@@ -63,7 +63,7 @@ I'm a software engineer with a passion for turning complex ideas into beautiful 
 <br/>
 <br/>
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keithpeter07&theme=dark" alt="keithpeter07" />
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keithpeter07&theme=dark" alt="keithpeter07" />
 </p>
 <br/>
 <p align="center">
