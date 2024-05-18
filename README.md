@@ -9,7 +9,6 @@
 I'm a software engineer with a passion for turning complex ideas into beautiful code realities. My approach to software engineering combines deep technical expertise with a keen sense of design, ensuring that every project is both robust and user-friendly. 😁
 
 
-
 <!--[![linkedin](https://custom-icon-badges.demolab.com/badge/-Linkedin-blue?style=for-the-badge&logoColor=white&logo=linkedin)](https://www.linkedin.com/in/keith-peter/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![leetcode](https://custom-icon-badges.demolab.com/badge/Leetcode-yellow.svg?style=for-the-badge&logoColor=white&logo=leetcode)](https://leetcode.com/u/keithpeter/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![email](https://custom-icon-badges.demolab.com/badge/-Send%20Email-red?style=for-the-badge&logoColor=white&logo=mail)](mailto:keithpeter07@gmail.com)-->
 
 [![linkedin](https://custom-icon-badges.demolab.com/badge/-Linkedin-blue?style=for-the-badge&logoColor=white&logo=linkedin)](https://www.linkedin.com/in/keith-peter/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![email](https://custom-icon-badges.demolab.com/badge/-Send%20Email-red?style=for-the-badge&logoColor=white&logo=mail)](mailto:keithpeter07@gmail.com)
