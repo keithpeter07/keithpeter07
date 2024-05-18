@@ -2,7 +2,7 @@
 ![Keith](./assets/code-dark.gif#gh-light-mode-only)
 
 
-# 👋🏾 Hi there, I'm Keith
+# 👋🏾 Hi there, I'm Keith Peter
 
 **`Programming Wizard (Software Engineer)`**
 
