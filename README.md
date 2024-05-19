@@ -65,8 +65,7 @@ I'm a software engineer with a passion for turning complex ideas into beautiful 
 <br/>
 <!--[![GitHub Streak](https://streak-stats.demolab.com/?user=keithpeter07&theme=dark)](https://git.io/streak-stats)-->
 <p align="center">
- <img align="center" src="https://streak-stats.demolab.com/?user=keithpeter07&theme=dark" alt="keithpeter07" />
-</p>
+  <img align="left" src="https://streak-stats.demolab.com/?user=keithpeter07&theme=dark" alt="keithpeter07" /></p>
 <br/>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=keithpeter07&theme=dark&show_icons=true&locale=en&layout=compact" alt="keithpeter07" /></p>
