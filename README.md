@@ -63,7 +63,7 @@ I'm a software engineer with a passion for turning complex ideas into beautiful 
 ### 📊 Stats
 <br/>
 <br/>
-<!--[![GitHub Streak](https://streak-stats.demolab.com/?user=keithpeter07&theme=dark)](https://git.io/streak-stats)-->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=keithpeter07&theme=dark)](https://git.io/streak-stats)
 <p align="center">
   <img align="left" src="https://streak-stats.demolab.com/?user=keithpeter07&theme=dark" alt="keithpeter07" /></p>
 <br/>
