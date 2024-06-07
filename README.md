@@ -1,6 +1,9 @@
 ![Keith](./assets/code-light.gif#gh-dark-mode-only)
 ![Keith](./assets/code-dark.gif#gh-light-mode-only)
 
+![Keith](./assets/code-new.gif#gh-dark-mode-only)
+
+
 
 # 👋🏾 Hi there, I'm Keith
 
