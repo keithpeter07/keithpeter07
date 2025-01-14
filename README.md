@@ -1,5 +1,5 @@
-![Keith](./assets/code-dark.gif#gh-dark-mode-only)
-![Keith](./assets/code-light.gif#gh-light-mode-only)
+<!--![Keith](./assets/code-dark.gif#gh-dark-mode-only)
+![Keith](./assets/code-light.gif#gh-light-mode-only)-->
 
 
 
